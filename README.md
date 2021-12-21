@@ -1,6 +1,6 @@
 # Hyperblog 💚
 Un blog increíble para la semana de capacitacion 
-> El curso de Git y Github de Platzi es lo que me hacía falta para mejorar y reforzar mis conocimientos
+> El curso de Git y Github de Platzi es lo que me hacía falta para mejorar y reforzar mis conocimientos.
 > - Fabio hurtado
 
 ## En este curso vemos de todo
